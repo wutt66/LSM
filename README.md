@@ -79,6 +79,18 @@ result:
 
 ![image](https://github.com/wutt66/LSM/assets/140719035/3f98cd31-57d5-4744-8396-4987048e84da)
 
+![image](https://github.com/wutt66/LSM/assets/140719035/75a59651-e753-4946-be6b-dc7665c77b2d)
 
+![image](https://github.com/wutt66/LSM/assets/140719035/7ca263ee-5fd6-42c1-abcd-28a7d4b7b156)
 
+![image](https://github.com/wutt66/LSM/assets/140719035/60831111-a70b-40af-ab09-32837cedf1df)
 
+![image](https://github.com/wutt66/LSM/assets/140719035/d930dc24-b183-4d68-a37d-9a7ad4ffff1b)
+
+![image](https://github.com/wutt66/LSM/assets/140719035/c04b56d2-7d17-4ff5-b4ae-056a354a8def)
+
+![image](https://github.com/wutt66/LSM/assets/140719035/14729334-dc28-42e0-baa7-a1b9da7ee724)
+
+![image](https://github.com/wutt66/LSM/assets/140719035/4058407c-83bf-4668-ad03-78c74c45d73a)
+
+![image](https://github.com/wutt66/LSM/assets/140719035/c4acd532-8d15-4421-8758-b42d7f72a5eb)
