@@ -10,6 +10,7 @@ result:
 ![image](https://github.com/wutt66/LSM/assets/140719035/c8389bf8-970d-4e4b-a654-b5c44f3ffa61)
 
 +++++++++++++++++++++++++++++++++
+
 LSM_line.py
 
 input file:
@@ -29,6 +30,7 @@ result:
 ![image](https://github.com/wutt66/LSM/assets/140719035/2e8384c6-07a0-4514-b999-74a548b3dc0e)
 
 +++++++++++++++++++++++++++++++++
+
 LSM_NoInit.py
 
 input file:
@@ -51,6 +53,28 @@ result:
 
 ![image](https://github.com/wutt66/LSM/assets/140719035/0d11a01d-935c-45f8-8239-0bf281fc4bb1)
 
-![image](https://github.com/wutt66/LSM/assets/140719035/826d90e7-a8b3-431e-8c30-87e951f8420e)
+![image](https://github.com/wutt66/LSM/assets/140719035/98ccbb01-0feb-42bb-8af2-a9ea2868c2a7)
+
++++++++++++++++++++++++++++++++++
+
+LSM_NoInit_ver2.py
+
+input file:
+
+![Feature](https://github.com/wutt66/LSM/assets/140719035/26998523-091b-4aa0-8b06-5ad429b853a4)
+
+result:
+
+![image](https://github.com/wutt66/LSM/assets/140719035/36699d38-dbd3-4b40-8e6e-c7f530e91e2a)
+
+![image](https://github.com/wutt66/LSM/assets/140719035/42015b9f-b385-4b66-82a7-c2881cf43b78)
+
+![image](https://github.com/wutt66/LSM/assets/140719035/ec8446b3-b3cb-4db0-abf3-b2104570b708)
+
+![image](https://github.com/wutt66/LSM/assets/140719035/8068a19a-ae0f-469c-8933-a396747da1ec)
+
+![image](https://github.com/wutt66/LSM/assets/140719035/a50e3034-5f3e-482b-85c8-29b7e90179f9)
+
+
 
 
